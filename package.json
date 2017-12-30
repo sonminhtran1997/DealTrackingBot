@@ -1,0 +1,16 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "Bot project to serve for personal daily life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Son Tran",
+  "license": "ISC",
+  "dependencies": {
+    "gdax": "^0.4.2",
+    "node-craigslist": "^1.2.2",
+    "telegraf": "^3.17.2"
+  }
+}
